@@ -8,6 +8,7 @@
 #include "utility/logs.h"
 #include <cmath>
 #include <cstring>
+#include <stdexcept>
 
 Audio_Device_Soundio::Audio_Device_Soundio()
 {
